@@ -13,7 +13,7 @@
       {
         "assets": [
           "Packages/com.ermilburn02.grids/package.json",
-          "CHANGELOG.md"
+          "Packages/com.ermilburn02.grids/CHANGELOG.md"
         ],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
