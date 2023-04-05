@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ERmilburn02/com.ermilburn02.grids/compare/v1.0.0...v1.0.1) (2023-04-05)
+
+
+### Bug Fixes
+
+* add local project to package-lock.json ([0588f02](https://github.com/ERmilburn02/com.ermilburn02.grids/commit/0588f02c40e235aa74280d97dbd59a78c666dd02))
+
 # 1.0.0 (2023-04-02)
 
 
