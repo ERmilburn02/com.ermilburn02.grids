@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ERmilburn02/com.ermilburn02.grids/compare/v1.0.1...v1.1.0) (2023-04-05)
+
+
+### Features
+
+* add GridXY ([0907cf5](https://github.com/ERmilburn02/com.ermilburn02.grids/commit/0907cf5e9a75e43c3db6e665c84aa69dbba8a237))
+
 ## [1.0.1](https://github.com/ERmilburn02/com.ermilburn02.grids/compare/v1.0.0...v1.0.1) (2023-04-05)
 
 
